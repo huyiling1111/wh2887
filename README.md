@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-## [个人博客](https://baidu.com)
+## [学习记录](https://github.com/wh2887/wh2887/issues)
