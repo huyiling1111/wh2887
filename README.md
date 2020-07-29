@@ -2,6 +2,7 @@
 
 - 我是McCall，一个前端初学者
 - 目前在学习 Vue 
+- 📍 正在进行的项目：[鲸鱼钱包（网页记账）](https://github.com/wh2887/whale-wallet)
 
 ## [学习记录](https://github.com/wh2887/wh2887/issues)
 
