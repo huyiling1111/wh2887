@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 我是McCall，一个前端初学者
+- 我是McCall.
 - 目前在学习 React + TypeScript
 - 📍 基于 Vue + TypeScript 的 WebApp：[鲸鱼钱包](https://github.com/wh2887/whale-wallet-2)
 - 📍 基于 Vue 的 UI 框架： [Init UI](https://github.com/wh2887/init-ui) 
